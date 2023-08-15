@@ -8,6 +8,8 @@ With a data-driven approach, we endeavor to discern how an ensemble of factors, 
 Before starting this project, please do visit the first project of the series:
 [Linear Regression Model Project in Python](https://github.com/diegovillatoromx/linear_regresion_with_python).
 
+# Aim
+To build a multiple linear regression model in python.
 
 # Approach
 - Import the required libraries and dataset
