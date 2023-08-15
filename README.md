@@ -34,4 +34,4 @@ target variable. There are total 202 rows and 13 columns in EPL Soccer Dataset.
 <img src="MLR.png">
 
 ## Complete Tutorial
-I have created a detailed [notebook](https://github.com/diegovillatoromx/linear_regresion_with_python/blob/main/linear_regresion.ipynb) tutorial for this project, where you will execute everything from start to end.
+I have created a detailed [notebook](https://github.com/diegovillatoromx/Multi_Linear_Regresion_with_Python/blob/main/MLR_python.ipynb) tutorial for this project, where you will execute everything from start to end.
