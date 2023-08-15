@@ -1,4 +1,4 @@
-# Multi Linear Regresion with Python
+# Multi Linear Regresion model with Python
 
 # Overview 
 Our analytical exploration takes a decisive leap forward as we delve into the realm of Multi Linear Regression to unravel the intricate web of influences behind EPL soccer players' scores. This advanced statistical technique holds the key to deciphering the collective impact of multiple variables on player performance, presenting a comprehensive picture that extends beyond traditional analysis.
@@ -32,3 +32,6 @@ target variable. There are total 202 rows and 13 columns in EPL Soccer Dataset.
 
 ## Architecture Diagram
 <img src="MLR.png">
+
+## Complete Tutorial
+I have created a detailed [notebook](https://github.com/diegovillatoromx/linear_regresion_with_python/blob/main/linear_regresion.ipynb) tutorial for this project, where you will execute everything from start to end.
