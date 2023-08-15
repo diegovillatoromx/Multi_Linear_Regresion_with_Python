@@ -28,7 +28,7 @@ Before starting this project, please do visit the first project of the series:
 TData Description
 The dataset used is the soccer player dataset. It has information about various players
 from different clubs, and it provides data over ten features with a number of goals as the
-target variable. There are total 202 rows and 13 columns in EPL Soccer Dataset.
+target variable. There are total 202 rows and 13 columns in [EPL Soccer Dataset](https://github.com/diegovillatoromx/Multi_Linear_Regresion_with_Python/blob/main/EPL_Soccer_MLR_LR.csv).
 
 ## Architecture Diagram
 <img src="MLR.png">
